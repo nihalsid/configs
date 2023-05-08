@@ -1,0 +1,17 @@
+[core]
+	autocrlf = true
+[user]
+	email = yawarnihal@gmail.com
+	name = nihalsid
+[init]
+	defaultBranch = main
+[safe]
+	directory = /rhome/ysiddiqui/semantic_nerf
+	directory = /rhome/ysiddiqui/PanopticNeRF
+	directory = /rhome/ysiddiqui/stylegan2-ada-3d-texture
+	directory = /rhome/ysiddiqui/Text2Tex
+	directory = /rhome/ysiddiqui/Text2Tex/models/diffusers
+	directory = /rhome/ysiddiqui/panoptic-lifting
+	directory = /rhome/ysiddiqui/nerf-lightning
+	directory = /rhome/ysiddiqui/stable-dreamfusion
+	directory = /rhome/ysiddiqui/DeepCAD
